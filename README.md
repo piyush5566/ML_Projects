@@ -9,5 +9,6 @@ The file ex1data1-Copy1.txt (available under week 2's assignment material) conta
 
 SECOND PROJECT GOAL: Suppose you are selling your house and you want to know what a good market price would be. One way to do this is to first collect information on recent houses sold and make a model of housing prices. Your job is to predict housing prices based on other variables.
 The file ex1data2-Copy1.txt((available under week 2’s assignment material)) contains a training set of housing prices in Portland, Oregon. The first column is the size of the house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house.
+
 THIRD PROJECT GOAL: To classify the tweets into four classes: Anger,Sad,Fear and Joy using Convolutional Neural Network.
 I got the dataset from the link http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html. I put all the data into one file 'train_tot.txt'. I got an accuracy around 92% on the test set.
