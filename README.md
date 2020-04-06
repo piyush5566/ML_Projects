@@ -3,7 +3,7 @@
 FIRST PROJECT GOAL: To classify the tweets into four classes: Anger,Sad,Fear and Joy using Convolutional Neural Network.
 I got the dataset from the link http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html. I put all the data into one file 'train_tot.txt'. I got an accuracy around 92% on the test set.
 
-SECOND PROJECT GOAL: Given gene, variation in gene and text-based clinical literature, classify the genetic mutation into 9 classes. This project is from a Kaggle Competition https://www.kaggle.com/c/msk-redefining-cancer-treatment.
+SECOND PROJECT GOAL: Given gene, variation in gene and text-based clinical literature, classify the genetic mutation into 9 classes. This project is from a Kaggle Competition https://www.kaggle.com/c/msk-redefining-cancer-treatment. My dataset is training data which can be downloaded from above Kaggle URL.
 
 I have tried to make projects given as assignment in Andrew Ng's ML course in Python3 myself. I have successfully completed that course. I am just trying to implement them in Python myself.
 
