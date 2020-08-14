@@ -2,6 +2,7 @@
 
 FIRST PROJECT GOAL: To classify the tweets into four classes: Anger,Sad,Fear and Joy using Convolutional Neural Network.
 I got the dataset from the link http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html. I put all the data into one file 'train_tot.txt'. I got an accuracy around 92% on the test set.
+CODE : sent_with_cnn(1).ipynb
 
 
 
